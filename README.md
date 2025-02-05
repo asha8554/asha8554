@@ -46,7 +46,7 @@
 <body>
     <header>
         <img src="logo.png" alt="Transport Logo" class="logo">
-        <h1>Reliable Transport Services</h1>
+        <h1>Rudra Transport Services</h1>
     </header>
     <section class="hero">
         <h2>Your Trusted Partner in Transportation</h2>
@@ -101,10 +101,7 @@ Your journey, our responsibility!
     <section class="contact">
         <h2>Contact Us</h2>
         <form>
-            <input type="text" =Facbook 
-            <input type="email" placeholder="asaha8554@gmail.com" required><br>
-            <textarea placeholder="Your Message" required></textarea><br>
-            <button type="submit">Send Message</button>
+            
         </form>
     </section>
     <footer>
