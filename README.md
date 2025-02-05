@@ -101,7 +101,7 @@ Your journey, our responsibility!
     <section class="contact">
         <h2>Contact Us</h2>
         <form>
-            <input type="text" placeholder="Your Name" required><br>
+            <input type="text" =Facbook 
             <input type="email" placeholder="asaha8554@gmail.com" required><br>
             <textarea placeholder="Your Message" required></textarea><br>
             <button type="submit">Send Message</button>
