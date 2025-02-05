@@ -60,7 +60,17 @@
         </div>
         <div class="service-box">
             <h3>Freight</h3>
-            <p>Reliable freight forwarding across regions.</p>
+            <p>At [Your Company Name], we specialize in secure, efficient, and dependable freight forwarding solutions tailored to your logistics needs. Whether shipping across borders or managing regional supply chains, our expertise ensures your cargo arrives safely and on time.
+
+Why Choose Us?
+✅ Secure & Contained Shipments – We prioritize safety with top-tier packaging and handling.
+✅ Reliable & Timely Delivery – Count on us for on-schedule freight movement across diverse regions.
+✅ Custom Solutions – Tailored logistics plans to fit your business requirements.
+✅ Global & Regional Coverage – Seamless shipping solutions across multiple territories.
+
+Let us handle your logistics while you focus on growing your business. Contact us today for a hassle-free freight forwarding experience!
+
+.</p>
         </div>
         <div class="service-box">
             <h3>xpress Delivery in Transportation
