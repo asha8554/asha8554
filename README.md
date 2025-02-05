@@ -92,7 +92,7 @@ Express delivery plays a vital role in e-commerce, healthcare, and business oper
 
 Our team of experienced drivers and logistics experts ensures timely deliveries and smooth journeys, whether for commercial shipments or personal travel. We leverage modern technology and a well-maintained fleet to guarantee a seamless transportation experience.
 
-At [Your Company Name], we believe in building long-term relationships with our clients by offering exceptional service, competitive pricing, and a dedication to safety and efficiency. Whether you're moving cargo or commuting, we are here to transport you with confidence.
+At [Rudra Transport], we believe in building long-term relationships with our clients by offering exceptional service, competitive pricing, and a dedication to safety and efficiency. Whether you're moving cargo or commuting, we are here to transport you with confidence.
 
 Your journey, our responsibility!
 
@@ -102,7 +102,7 @@ Your journey, our responsibility!
         <h2>Contact Us</h2>
         <form>
             <input type="text" placeholder="Your Name" required><br>
-            <input type="email" placeholder="Your Email" required><br>
+            <input type="email" placeholder="asaha8554@gmail.com" required><br>
             <textarea placeholder="Your Message" required></textarea><br>
             <button type="submit">Send Message</button>
         </form>
