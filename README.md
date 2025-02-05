@@ -69,7 +69,15 @@
     </section>
     <section class="about">
         <h2>About Us</h2>
-        <p>We have been providing top-notch transportation services for over a decade, ensuring reliability and customer satisfaction.</p>
+        <p>At Rudra Transport, we are committed to providing reliable, efficient, and safe transportation solutions tailored to meet your needs. With a strong focus on customer satisfaction, we specialize in transporting goods and passengers with professionalism and care.
+
+Our team of experienced drivers and logistics experts ensures timely deliveries and smooth journeys, whether for commercial shipments or personal travel. We leverage modern technology and a well-maintained fleet to guarantee a seamless transportation experience.
+
+At [Your Company Name], we believe in building long-term relationships with our clients by offering exceptional service, competitive pricing, and a dedication to safety and efficiency. Whether you're moving cargo or commuting, we are here to transport you with confidence.
+
+Your journey, our responsibility!
+
+.</p>
     </section>
     <section class="contact">
         <h2>Contact Us</h2>
