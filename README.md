@@ -63,7 +63,16 @@
             <p>Reliable freight forwarding across regions.</p>
         </div>
         <div class="service-box">
-            <h3>Express Delivery</h3>
+            <h3>xpress Delivery in Transportation
+Express delivery is a fast and efficient logistics service designed to transport goods quickly over short or long distances. It is widely used for urgent shipments, including documents, parcels, and perishable goods.
+
+Key features of express delivery include:
+
+Speed: Ensures rapid transportation, often within the same day or next-day delivery.
+Reliability: Uses advanced tracking systems to monitor shipments in real time.
+Special Handling: Provides secure packaging and priority handling for fragile or high-value items.
+Multiple Transport Modes: Utilizes air, road, rail, and sea transport for optimal efficiency.
+Express delivery plays a vital role in e-commerce, healthcare, and business operations by ensuring timely and secure deliveries.</h3>
             <p>Fast and secure package delivery.</p>
         </div>
     </section>
